@@ -1,0 +1,11 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cssstats": "^3.4.1",
+    "got": "^11.4.0",
+    "jsdom": "^16.2.2"
+  }
+}
